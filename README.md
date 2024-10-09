@@ -1,8 +1,8 @@
 <div align="center">
-	<h1>Reloaded II</h1>
+	<h1>Joeloaded II</h1>
 	<img src="./docs/Images/Reloaded/Reloaded Logo.png" width="150" align="center" />
 	<br/> <br/>
-	<strong>Nothing else matters.</strong>
+	<strong>Reloaded II but Joe broke it.</strong>
 	<br/>
     Universal, C# based mod loader.
     <br/>
